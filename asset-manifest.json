@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adapt.nxt/static/css/main.0d80e234.css",
+    "main.js": "/adapt.nxt/static/js/main.54b3ff22.js",
+    "static/js/453.7f92dea9.chunk.js": "/adapt.nxt/static/js/453.7f92dea9.chunk.js",
+    "index.html": "/adapt.nxt/index.html",
+    "main.0d80e234.css.map": "/adapt.nxt/static/css/main.0d80e234.css.map",
+    "main.54b3ff22.js.map": "/adapt.nxt/static/js/main.54b3ff22.js.map",
+    "453.7f92dea9.chunk.js.map": "/adapt.nxt/static/js/453.7f92dea9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d80e234.css",
+    "static/js/main.54b3ff22.js"
+  ]
+}
